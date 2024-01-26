@@ -1,0 +1,12 @@
+/* Navbar.css */
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Arial', sans-serif;
+  background-image: url('../public/backgroundbody.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
